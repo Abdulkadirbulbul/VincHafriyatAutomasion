@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automasion", "Automasion\Automasion.csproj", "{6143187B-2B15-4DE0-B2BF-BD8737E8C59B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VincHafriyat", "VincHafriyat\VincHafriyat.vdproj", "{6A56025E-E3BA-4CDD-8713-325E2375B541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6143187B-2B15-4DE0-B2BF-BD8737E8C59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6143187B-2B15-4DE0-B2BF-BD8737E8C59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6143187B-2B15-4DE0-B2BF-BD8737E8C59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6143187B-2B15-4DE0-B2BF-BD8737E8C59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A56025E-E3BA-4CDD-8713-325E2375B541}.Debug|Any CPU.ActiveCfg = Debug
+		{6A56025E-E3BA-4CDD-8713-325E2375B541}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948E0945-C145-4E2F-A586-98EE73714EFD}
+	EndGlobalSection
+EndGlobal
